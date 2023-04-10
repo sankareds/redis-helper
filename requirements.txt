@@ -4,6 +4,6 @@ dt-helper
 fs-helper
 input-helper
 pytz
-redis==4.5.3
+redis>=4.5.0
 settings-helper
 ujson==5.4.0; python_version >= "3.7"
